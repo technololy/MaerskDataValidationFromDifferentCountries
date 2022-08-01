@@ -1,0 +1,12 @@
+﻿[
+  {
+    "Country": "en-gb",
+    "CountryPhoneCode": "+44",
+    "CountryPhoneLengthWithNoCode": 7
+  },
+  {
+    "Country": "en-NG",
+    "CountryPhoneCode": "+234",
+    "CountryPhoneLengthWithNoCode": 11
+  }
+]
